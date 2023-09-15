@@ -4,3 +4,11 @@ The file calculation.sh contains a shell script framework. Was built based on Qu
   chmod +x calculation.sh
 To execute, use the command:
 nohup ./calculations.sh
+
+
+# This script was developed to calculate:
+# 1. Geometry
+# 2. Band structure
+# 3. Density of states
+
+# It's a basic but useful script. It was developed based on the input and output of the Quantum Espresso 6.8V
