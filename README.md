@@ -7,8 +7,8 @@ nohup ./calculations.sh
 
 
 # This script was developed to calculate:
-# 1. Geometry
-# 2. Band structure
-# 3. Density of states
+ 1. Geometry
+ 2. Band structure
+ 3. Density of states
 
-# It's a basic but useful script. It was developed based on the input and output of the Quantum Espresso 6.8V
+It's a basic but useful script. It was developed based on the input and output of the Quantum Espresso 6.8V
