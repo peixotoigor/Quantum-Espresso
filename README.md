@@ -6,7 +6,7 @@ To execute, use the command:
 nohup ./calculations.sh
 
 
-# This script was developed to calculate:
+This script was developed to calculate:
  1. Geometry
  2. Band structure
  3. Density of states
